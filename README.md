@@ -1,6 +1,6 @@
 ### Hey, I'm Artem! 👋
 
-Between dealing with complex codes at my `$DAYJOB` and enjoying life outside engineering I occasionally try to share some of the thing I've done.
+Between dealing with complex codes at my `$DAYJOB` and enjoying life outside engineering I occasionally try to share things I've done.
 
 Here are some of them:
 
@@ -31,7 +31,7 @@ Here are some of them:
 
 #### Go
 
-And some other random tools written in go:
+And other random tools written in go:
 
 * [maxminddb-cidrs](https://github.com/gordonbondon/maxminddb-cidrs)
 * [go-webhookrelay](https://github.com/koalificationio/go-webhookrelay)
