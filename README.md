@@ -2,7 +2,7 @@
 
 Between dealing with complex codes at my `$DAYJOB` and enjoying life outside engineering I occasionally try to share things I've done.
 
-Here are some of them:
+Here are some of them, categorized:
 
 <a href="https://www.terraform.io/">
 <img align="left" width="30" height="30" src="https://avatars.githubusercontent.com/u/11051457?v=4" alt="Terraform logo">
@@ -25,13 +25,22 @@ Here are some of them:
 * [kubernetes-typed](https://github.com/gordonbondon/kubernetes-typed)
 
 
+<a href="https://www.chef.io/">
+<img align="left" width="30" height="30" src="https://avatars.githubusercontent.com/u/3617830?s=200&v=4" alt="Chef logo">
+</a>
+
+#### Chef
+
+* [choregraphie-dynamodb-lock](https://github.com/gordonbondon/choregraphie-dynamodb-lock)
+
+
 <a href="https://golang.org/">
 <img align="left" width="30" height="30" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="Gopher logo">
 </a>
 
 #### Go
 
-And other random tools written in go:
+And other random tools, mostly written in go:
 
 * [maxminddb-cidrs](https://github.com/gordonbondon/maxminddb-cidrs)
 * [go-webhookrelay](https://github.com/koalificationio/go-webhookrelay)
